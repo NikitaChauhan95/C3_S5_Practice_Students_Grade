@@ -13,11 +13,11 @@ public class StudentMarksImpl {
         StudentMarks studentMarks = new StudentMarks();
         int totalMarksForMedicalPathway = studentMarks.calculateMarks(76, 67, 85, 78);
         System.out.println("totalMarksForMedicalPathway = " + totalMarksForMedicalPathway);
-       /* int totalMarksForNonMedicalPathway = studentMarks.calculateMarks(66, 14, 77);
+        int totalMarksForNonMedicalPathway = studentMarks.calculateMarks(66, 14, 77);
         System.out.println("totalMarksForNonMedicalPathway = " + totalMarksForNonMedicalPathway);
-        double totalMarksForBusinessPathway = studentMarks.calculateMarks(54.5, 76.5, 45.5);
+       /* double totalMarksForBusinessPathway = studentMarks.calculateMarks(54.5, 76.5, 45.5);
         System.out.println("totalMarksForBusinessPathway = " + totalMarksForBusinessPathway);
-        
+
         */
 
 
