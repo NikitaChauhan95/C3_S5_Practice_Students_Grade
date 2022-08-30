@@ -8,4 +8,11 @@
 package com.marks;
 
 public class StudentMarks {
+
+    void calculateMarks(){}
+
+    public int calculateMarks(int math, int physics, int chemistry, int biology){
+        int sum = 0;
+        return sum;
+    }
 }
