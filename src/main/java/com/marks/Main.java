@@ -1,4 +1,4 @@
-package com.niit.jdp;
+package com.marks;
 
 public class Main {
     public static void main(String[] args) {
