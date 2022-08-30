@@ -15,10 +15,9 @@ public class StudentMarksImpl {
         System.out.println("totalMarksForMedicalPathway = " + totalMarksForMedicalPathway);
         int totalMarksForNonMedicalPathway = studentMarks.calculateMarks(66, 14, 77);
         System.out.println("totalMarksForNonMedicalPathway = " + totalMarksForNonMedicalPathway);
-       /* double totalMarksForBusinessPathway = studentMarks.calculateMarks(54.5, 76.5, 45.5);
+        double totalMarksForBusinessPathway = studentMarks.calculateMarks(54.5, 76.5, 45.5);
         System.out.println("totalMarksForBusinessPathway = " + totalMarksForBusinessPathway);
 
-        */
 
 
     }
