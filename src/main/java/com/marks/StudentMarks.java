@@ -15,4 +15,8 @@ public class StudentMarks {
         int sum = 0;
         return sum;
     }
+    public int calculateMarks(int math, int physics, int chemistry){
+        int sum = 0;
+        return sum;
+    }
 }
